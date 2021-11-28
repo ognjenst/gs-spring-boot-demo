@@ -10,8 +10,9 @@ import java.sql.Timestamp;
 public class Actor {
     @Id
     @Column(name = "actor_id")
-    @GeneratedValue(strategy = GenerationType.AUTO)
+    @GeneratedValue(strategy = GenerationType.IDENTITY)
     private int ID;
+
     private String first_name;
     private String last_name;
     private Timestamp last_update;
