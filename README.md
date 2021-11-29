@@ -5,4 +5,4 @@ Spring Boot Demo
   
 Demo app for learning Spring Boot Web Service
 
-:construction: Work in progress
+:construction:  Work in progress
