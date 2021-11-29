@@ -6,4 +6,3 @@ Spring Boot Demo
 Demo app for learning Spring Boot Web Service <br />
 Database: **PostgreSQL**
 
-
